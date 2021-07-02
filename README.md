@@ -155,4 +155,4 @@ No known bugs at this time.
 
 ## Authors
 Tinsaye Simeneh and
-Bernabas Getachew
+Bernabas Hordofa
